@@ -1,0 +1,12 @@
+C:\Users\gyoks\source\repos\File_duplicater\File_duplicater\bin\Debug\File_duplicater.exe.config
+C:\Users\gyoks\source\repos\File_duplicater\File_duplicater\bin\Debug\File_duplicater.exe
+C:\Users\gyoks\source\repos\File_duplicater\File_duplicater\bin\Debug\File_duplicater.pdb
+C:\Users\gyoks\source\repos\File_duplicater\File_duplicater\obj\Debug\File_duplicater.csproj.AssemblyReference.cache
+C:\Users\gyoks\source\repos\File_duplicater\File_duplicater\obj\Debug\File_duplicater.Form1.resources
+C:\Users\gyoks\source\repos\File_duplicater\File_duplicater\obj\Debug\File_duplicater.Properties.Resources.resources
+C:\Users\gyoks\source\repos\File_duplicater\File_duplicater\obj\Debug\File_duplicater.csproj.GenerateResource.cache
+C:\Users\gyoks\source\repos\File_duplicater\File_duplicater\obj\Debug\File_duplicater.csproj.CoreCompileInputs.cache
+C:\Users\gyoks\source\repos\File_duplicater\File_duplicater\obj\Debug\File_duplicater.exe
+C:\Users\gyoks\source\repos\File_duplicater\File_duplicater\obj\Debug\File_duplicater.pdb
+C:\Users\gyoks\source\repos\File_duplicater\File_duplicater\obj\Debug\File_duplicater.Form2.resources
+C:\Users\gyoks\source\repos\File_duplicater\File_duplicater\obj\Debug\File_duplicater.Form3.resources
